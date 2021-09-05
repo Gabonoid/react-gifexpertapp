@@ -20,7 +20,6 @@
 						o = a[1];
 					return Object(u.jsx)("form", {
 						onSubmit: function (e) {
-							// eslint-disable-next-line no-unused-expressions
 							e.preventDefault(),
 								c.trim().length > 2 &&
 									(t(function (e) {
